@@ -1,0 +1,8 @@
+<!--index.wxml-->
+<view class="container">
+  中国现阶段人均寿命900个月
+  <text>1982年9月至今450给月</text>
+  <button>换一个日期</button> <button>清楚记录</button>
+  <view class='con'> 
+  </view>
+</view>
